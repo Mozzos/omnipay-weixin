@@ -1,22 +1,21 @@
 {
-  "name": "lokielse/omnipay-alipay",
+  "name": "udoless/omnipay-weixin",
   "type": "library",
   "description": "Weixin gateway for Omnipay payment processing library",
   "keywords": [
-    "alipay",
+    "weixin",
     "gateway",
-    "merchant",
     "omnipay",
     "pay",
     "payment",
     "purchase"
   ],
-  "homepage": "https://github.com/lokielse/omnipay-alipay",
+  "homepage": "https://github.com/udoless/omnipay-weixin",
   "license": "MIT",
   "authors": [
     {
-      "name": "Loki Else",
-      "email": "lokielse@gmail.com"
+      "name": "hz",
+      "email": "udoless@gmail.com"
     }
   ],
   "autoload": {
